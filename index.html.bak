@@ -63,12 +63,12 @@
                     </div>
                 </header>
                 <ul id="main-menu" class="main-menu">
-                    <li>
+                    <!--<li>
                         <a href="#推广活动" class="smooth">
                             <i class="linecons-star"></i>
                             <span class="title">推广活动</span>
                         </a>
-                    </li>
+                    </li>-->
                     <li>
                         <a href="#导航网站" class="smooth">
                             <i class="linecons-doc"></i>
@@ -113,12 +113,6 @@
                                 <span class="title">社交娱乐</span>
                                 </a>
                             </li> 
-                    <li>
-                        <a href="#友情链接" class="smooth">
-                            <i class="linecons-user"></i>
-                            <span class="title">友情链接</span>
-                        </a>
-                    </li>
                     <li>
                         <a href="about.html">
                             <i class="linecons-heart"></i>
@@ -267,7 +261,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
+               <!-- <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://bing.com/chat', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Copilot">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
@@ -311,9 +305,9 @@
                             </div>
                         </div>
                     </div>
+                </div>-->
                 </div>
-                </div>
-            <div class="row">
+            <!--<div class="row">
                 <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://bard.google.com/chat', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Bard">
                         <div class="xe-comment-entry">
@@ -374,7 +368,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>--》
             <br />
             <!--END AI推荐 -->
             <!-- 站长工具 -->
@@ -912,7 +906,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
+                <!--<div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://account.proton.me/zh-cn/mail/signup', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="proton">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
@@ -942,6 +936,7 @@
                         </div>
                     </div>
                 </div>
+                -->
             </div>
             <br />
             <!--END 邮箱直链 -->
@@ -993,7 +988,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
+               <!-- <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.mediafire.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="MediaFir">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
@@ -1007,9 +1002,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
-            <div class="row">
+            <!--<div class="row">
                 <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://infini-cloud.net/en/ ', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="infini-cloud">
                         <div class="xe-comment-entry">
@@ -1070,7 +1065,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <br />
             <!--END 网盘OSS -->
             <!-- 接码平台 -->
@@ -1091,7 +1086,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
+               <!-- <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.zusms.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="zusms">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
@@ -1135,9 +1130,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
-            <div class="row">
+           <!-- <div class="row">
                 <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://jiemahao.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="jiemahao">
                         <div class="xe-comment-entry">
@@ -1198,7 +1193,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <br />
             <!--END 接码平台 -->
             <!-- 社交娱乐 -->
@@ -1453,258 +1448,7 @@
             </div>
             <br />
             <!--END 社交娱乐 -->
-            <!-- 友情链接 -->
-            <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="友情链接"></i>友情链接</h4>
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.611495.xyz', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="611stats">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/stats.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>611stats</strong>
-                                </a>
-                                <p class="overflowClip_2">一站式网站统计分析平台</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://facebook.design/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://facebook.design/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/FacebookDesign.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>Facebook Design</strong>
-                                </a>
-                                <p class="overflowClip_2">Facebook Design</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://design.google/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://design.google/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/GoogleDesign.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>Google Design</strong>
-                                </a>
-                                <p class="overflowClip_2">Google Design</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://eicodesign.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://eicodesign.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/eico.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>eico design</strong>
-                                </a>
-                                <p class="overflowClip_2">数字化咨询与产品专家</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.niceui.cn/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.niceui.cn/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/niceui.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>nice design</strong>
-                                </a>
-                                <p class="overflowClip_2">nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://cdc.tencent.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://cdc.tencent.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/cdc.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>腾讯CDC</strong>
-                                </a>
-                                <p class="overflowClip_2">腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://tgideas.qq.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://tgideas.qq.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/tgideas.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>TGideas</strong>
-                                </a>
-                                <p class="overflowClip_2">TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://isux.tencent.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://isux.tencent.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/isux.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>ISUX</strong>
-                                </a>
-                                <p class="overflowClip_2">腾讯社交用户体验设计部</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://mxd.tencent.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://mxd.tencent.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/mxd.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>MXD</strong>
-                                </a>
-                                <p class="overflowClip_2">腾讯MIG无线互联网事业群设计团队</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.aliued.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.aliued.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/aliued.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>Aliued</strong>
-                                </a>
-                                <p class="overflowClip_2">阿里巴巴国际UED团队</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.aliued.cn/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.aliued.cn/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/aliuedcn.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>U一点</strong>
-                                </a>
-                                <p class="overflowClip_2">阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://uedc.163.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://uedc.163.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/uedc.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>网易uedc</strong>
-                                </a>
-                                <p class="overflowClip_2">网易用户体验设计中心（User Experience Design Center）</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://ued.baidu.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://ued.baidu.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/uedbaidu.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>百度用户体验中心</strong>
-                                </a>
-                                <p class="overflowClip_2">百度用户体验中心</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://jdc.jd.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://jdc.jd.com/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/JDC.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>京东设计中心</strong>
-                                </a>
-                                <p class="overflowClip_2">京东设计中心</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://tools.611495.xyz/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="站长工具箱">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/euxbaidu.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>工具箱</strong>
-                                </a>
-                                <p class="overflowClip_2">站长在线工具箱</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://share.611495.xyz', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://share.611495.xyz">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/ctrip.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>创意分享</strong>
-                                </a>
-                                <p class="overflowClip_2">创意电子资源分享平台</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br />
-            <!--END 友情链接 -->
+            
             <!-- Main Footer -->
             <!-- Choose between footer styles: "footer-type-1" or "footer-type-2" -->
             <!-- Add class "sticky" to  always stick the footer to the end of page (if page contents is small) -->
