@@ -229,7 +229,7 @@
             </div>
             <br />
             <!--END 导航 -->
-             <!-- 接码平台 -->
+             <!-- 我的网站 -->
             <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="接码平台"></i>接码平台</h4>
                 <div class="row">
            		  <div class="col-sm-3">
@@ -534,16 +534,16 @@
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.dynadot.com/register-your-free-link-domain', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Dynadot">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://sms-activate.org/?ref=3195496', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="sms-activate">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
-                                <img data-src="../assets/images/logos/Dynadot.jpg" class="lozad img-circle" width="40">
+                                <img data-src="../assets/images/logos/smsactivate.jpg" class="lozad img-circle" width="40">
                             </a>
                             <div class="xe-comment">
                                 <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>Dynadot</strong>
+                                    <strong>sms-activate</strong>
                                 </a>
-                                <p class="overflowClip_2">申请免费一年link域名</p>
+                                <p class="overflowClip_2">在线短信激活接码</p>
                             </div>
                         </div>
                     </div>
