@@ -63,12 +63,12 @@
                     </div>
                 </header>
                 <ul id="main-menu" class="main-menu">
-                    <!--<li>
+                    <li>
                         <a href="#推广活动" class="smooth">
                             <i class="linecons-star"></i>
                             <span class="title">推广活动</span>
                         </a>
-                    </li>-->
+                    </li>
                     <li>
                         <a href="#导航网站" class="smooth">
                             <i class="linecons-doc"></i>
